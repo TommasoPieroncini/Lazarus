@@ -1,0 +1,9 @@
+Lazarus/*.iml
+Lazarus/.gradle
+Lazarus/local.properties
+Lazarus/.idea/workspace.xml
+Lazarus/.idea/libraries
+Lazarus/.DS_Store
+Lazarus/build
+Lazarus/captures
+Lazarus/.externalNativeBuild
